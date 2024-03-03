@@ -1,0 +1,23 @@
+{
+    "Hanoi": {
+      "2024-03-03": {
+        "temperature": 25,
+        "description": "Sunny"
+      },
+      "2024-03-04": {
+        "temperature": 22,
+        "description": "Partly Cloudy"
+      }
+    },
+    "HoChiMinhCity": {
+      "2024-03-03": {
+        "temperature": 30,
+        "description": "Hot"
+      },
+      "2024-03-04": {
+        "temperature": 28,
+        "description": "Cloudy"
+      }
+    }
+  }
+  
